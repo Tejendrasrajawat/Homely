@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "882405619479",
+    "firebase_url": "https://offville-b0e65.firebaseio.com",
+    "project_id": "offville-b0e65",
+    "storage_bucket": "offville-b0e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882405619479:android:c897c0a7f70731d3",
+        "android_client_info": {
+          "package_name": "com.homely.homely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882405619479-ms44hdljar7blkk5dd0b5b0p207n8f96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homely.homely",
+            "certificate_hash": "78d89f7507282a6ce1d2f995ab4d579fbd3e2a8f"
+          }
+        },
+        {
+          "client_id": "882405619479-b8m940n016rdmjmg6ph096kh2e5fmtv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homely.homely",
+            "certificate_hash": "9024d7786ce731c1e56f846b4c4bb902e38a335c"
+          }
+        },
+        {
+          "client_id": "882405619479-n74406n0lj87l4rpm62tgekfue5slq81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASB6dJ9f2GRzwsAiYG4yXz02EjjHR9qPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882405619479-n74406n0lj87l4rpm62tgekfue5slq81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
